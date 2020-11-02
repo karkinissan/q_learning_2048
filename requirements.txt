@@ -1,0 +1,10 @@
+matplotlib==3.2.1
+pandas==1.0.3
+gym_2048==0.2.6
+torchvision==0.7.0
+torch==1.6.0
+numpy==1.19.2
+gym==0.10.11
+tqdm==4.46.0
+Pillow==7.1.2
+pandas==1.0.3
